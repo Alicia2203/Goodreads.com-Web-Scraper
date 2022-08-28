@@ -8,7 +8,8 @@ The web page that we have chosen to scrape from is a page that displays a list o
 
 ## Descriptive Analysis
 
-![image](https://user-images.githubusercontent.com/69787181/187073469-35a9bf9d-7506-4100-bf90-dba3fd36401c.png)
+![image](https://user-images.githubusercontent.com/69787181/187073469-35a9bf9d-7506-4100-bf90-dba3fd36401c.png). 
+
 The histogram above was generated and displayed to observe the Average Ratings among the top 100 books that readers would give to the books. Histogram is very useful for comparing distributions as it provides visual interpretations. According to this histogram (Diagram 1), it illustrates symmetrical distributions and almost a normal distribution graph but tends towards a random distribution at the higher ratings. It shows a continuous variable of ratings in the horizontal axis (x-axis), whereas the vertical axis (y-axis) illustrates the number of readers. Moreover, the height of the bar demonstrates the count of readers given to the ratings. The histogram illustrates that the majority of readers gave around a 4.3 rating on average for the books.
 
 ![image](https://user-images.githubusercontent.com/69787181/187073480-aac58851-4c6f-4f70-8d3f-c61bae83c34f.png)
